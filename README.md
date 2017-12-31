@@ -27,7 +27,7 @@ Weex 给大家带来的无疑是客户端开发效率的提升，我们可以通
 
 ###如何启动项目
 ``` bash
-$ git clone
+$ git clone https://github.com/becarchal/my-weex.git
 ```
 ```
 $ cd my-weex && npm install
@@ -93,6 +93,7 @@ or
 wra
 ```
 即可看到android效果如上图。
+
 ####ios:
 在appstore安装xcode,参照[2017最新MacOS10.12安装CocoaPods参考步骤](https://www.jianshu.com/p/1b2d4040cd0c)安装CocoaPods
 
