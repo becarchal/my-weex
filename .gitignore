@@ -6,6 +6,7 @@ npm-debug.log
 /dist
 
 build/
-.idea
-.gradle
+.idea/
+.gradle/
 local.properties
+.settings/
