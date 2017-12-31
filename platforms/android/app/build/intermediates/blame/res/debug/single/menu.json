@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/binyang/becarchal/weex/amap-running-app/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/binyang/becarchal/weex/amap-running-app/platforms/android/app/src/main/res/menu/main_scan.xml"
+    },
+    {
+        "merged": "/Users/binyang/becarchal/weex/my-weex/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/binyang/becarchal/weex/my-weex/platforms/android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/binyang/becarchal/weex/my-weex/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/binyang/becarchal/weex/my-weex/platforms/android/app/src/main/res/menu/main_scan.xml"
+    },
+    {
+        "merged": "/Users/binyang/becarchal/weex/amap-running-app/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/binyang/becarchal/weex/amap-running-app/platforms/android/app/src/main/res/menu/main.xml"
+    }
+]

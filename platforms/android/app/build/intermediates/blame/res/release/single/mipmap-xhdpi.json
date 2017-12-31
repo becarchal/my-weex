@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/binyang/becarchal/weex/amap-running-app/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/binyang/becarchal/weex/amap-running-app/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/binyang/becarchal/weex/my-weex/platforms/android/app/build/intermediates/res/merged/release/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/binyang/becarchal/weex/my-weex/platforms/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

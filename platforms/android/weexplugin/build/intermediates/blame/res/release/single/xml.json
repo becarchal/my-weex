@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/binyang/becarchal/weex/amap-running-app/platforms/android/weexplugin/build/intermediates/res/merged/release/xml/config.xml",
+        "source": "/Users/binyang/becarchal/weex/amap-running-app/platforms/android/weexplugin/src/main/res/xml/config.xml"
+    },
+    {
+        "merged": "/Users/binyang/becarchal/weex/my-weex/platforms/android/weexplugin/build/intermediates/res/merged/release/xml/config.xml",
+        "source": "/Users/binyang/becarchal/weex/my-weex/platforms/android/weexplugin/src/main/res/xml/config.xml"
+    }
+]
