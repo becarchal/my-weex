@@ -12,12 +12,15 @@ Weex 给大家带来的无疑是客户端开发效率的提升，我们可以通
 
 **iOS 版**
 
+<img src="https://github.com/becarchal/my-weex/blob/master/design_sketch/ios-sketch.png"/>
 
 **Android 版**
 
+<img src="https://github.com/becarchal/my-weex/blob/master/design_sketch/android-sketch.png"/>
 
 **web 版**
 
+<img src="https://github.com/becarchal/my-weex/blob/master/design_sketch/web-sketch.png"/>
 
 
 *截图数据仅供参考*
@@ -115,7 +118,7 @@ wrw
 即可看到web端效果如上图。
 
 
-[my-weex](),欢迎pullrequest,欢迎拍砖
+[my-weex](https://github.com/becarchal/my-weex),欢迎pullrequest,欢迎拍砖
 
 ### 扩展阅读
 
